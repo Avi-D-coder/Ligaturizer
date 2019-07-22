@@ -38,6 +38,7 @@ prefixed_fonts = [
   'fonts/codeface/fonts/edlo/*.ttf',
   'fonts/codeface/fonts/fantasque-sans-mono/*.ttf',
   'fonts/codeface/fonts/inconsolata/*.ttf',
+  'fonts/fira-italic/distr/otf/*.otf',
 ]
 
 #### Fonts that need to be renamed. ####
