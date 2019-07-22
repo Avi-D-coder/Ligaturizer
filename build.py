@@ -53,7 +53,7 @@ renamed_fonts = {
 
   # SIL OFL with reserved name
   'fonts/codeface/fonts/anonymous-pro/*.ttf': 'Liganymous',
-  'fonts/plex/IBM-Plex-Mono/fonts/complete/ttf/*.ttf': 'Ligalex Mono',
+  'fonts/plex/IBM-Plex-Mono/fonts/complete/ttf/*.ttf': 'LigaPlex Mono',
   'fonts/codeface/fonts/oxygen-mono/*.otf': 'Liga O2 Mono',
   'fonts/codeface/fonts/source-code-pro/*.ttf': 'LigaSrc Pro',
   'fonts/SourceCodeVariable*': 'LigaSrc Variable',
